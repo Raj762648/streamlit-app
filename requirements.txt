@@ -3,7 +3,7 @@ streamlit
 pillow
 protobuf
 jinja2
-# torch
+torch
 boto3
 uvicorn
 fastapi
